@@ -1,0 +1,3 @@
+<!DOCTYPE html> //Típus jelölő
+<head> //oldal kezelésére szükséges információ tartalma
+<body> //felhasználó számára
