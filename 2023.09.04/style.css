@@ -1,4 +1,15 @@
 body{
     background-color: lightblue;
     color: navy;
+    text-align: center;
+}
+table, thead, tr, th, td{
+    background-color: aquamarine;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    border: 2px solid black;
+}
+
+th{
+    background-color:aqua;
 }
