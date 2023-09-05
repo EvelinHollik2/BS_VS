@@ -40,6 +40,7 @@ h2 {
 #fejlec h1{
 	color:white;
 	font-size:30px;
+	text-align: right;
 }
 
 #tartalom {
@@ -79,7 +80,11 @@ h2 {
 }
 
 .kepalairas{
-
+	font-size: 9px;
+	text-align: center;
+	word-wrap: break-word; /*3 soros tördelés*/
+	width: 76px;
+	margin: auto;
 }
 
 .szurke{
