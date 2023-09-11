@@ -2,3 +2,4 @@ const = egyszer felhasználható; bármikor kitudjuk olvasni; mindig ugyan az az
 var = addig használható amíg a böngészőbel vagyunk
 let = 
 querySelector = közvetlenül keres (#)- id szerint keres
+
