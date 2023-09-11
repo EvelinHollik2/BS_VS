@@ -1,0 +1,4 @@
+const = egyszer felhasználható; bármikor kitudjuk olvasni; mindig ugyan az az input címe
+var = addig használható amíg a böngészőbel vagyunk
+let = 
+querySelector = közvetlenül keres (#)- id szerint keres
